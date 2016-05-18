@@ -1,4 +1,4 @@
-This is a course project for cmu-11642---search-engine
+This is a project for search-engine
 
 1. Built a text-based large scale search engine indexed using a pre-index corpus consisting of 10% of all Wikipedia webpages (Lucene API) on corpus of 500,000+ documents from ClueWeb09 dataset.
 2. Created parsers which would be able to handle structured queries consisting of operators like 'AND', 'OR', 'NEAR', 'WEIGHT', 'WINDOW' as well as handle Bag of Words(BoW) queries.
